@@ -1,0 +1,42 @@
+/* Basic global styles for layout, typography, and component spacing.
+   Includes formatting for dropdowns, clock display, error messages, and headers.
+   Designed for readability and a clean, modern UI. */
+
+
+.App {
+  text-align: center;
+  padding: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 2rem;
+}
+
+.dropdowns {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+select {
+  padding: 0.5rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+h2 {
+  margin-top: 2rem;
+  color: #004080;
+}
