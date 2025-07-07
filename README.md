@@ -108,5 +108,5 @@ npm run build
 
 ## Author
 
-For the EducationPlannerBC Frontend Assignment  
-Submitted by: Prabin Sebastian
+Self Learning Purpose  
+Prepared by: Prabin Sebastian
